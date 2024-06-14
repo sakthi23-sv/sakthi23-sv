@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakthi23-sv
-- 👀 I’m interested in ...Full Stack
+- 👀 I’m interested in ...Software Develoopment
 - 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...♥
 - 📫 How to reach me ...veksakthi1440@gmail.com
